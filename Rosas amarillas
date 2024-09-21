@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rosas Amarillas</title>
+    <style>
+        body {
+            background-color: #fff8dc;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #d4af37;
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        .rosas {
+            display: inline-block;
+            width: 300px;
+            height: 300px;
+            background-image: url('https://example.com/yellow-roses.jpg');
+            background-size: cover;
+            border-radius: 50%;
+        }
+
+        p {
+            font-size: 1.5em;
+            color: #d2691e;
+        }
+    </style>
+</head>
+<body>
+    <h1>Con cariño para ti, mi Reyna</h1>
+    <div class="rosas"></div>
+    <p>Siempre en mi corazón.</p>
+</body>
+</html>
